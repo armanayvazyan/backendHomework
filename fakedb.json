@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "token": ""
+    },
+    {
+      "id": "1d82912d-66a7-4db6-ae39-eccdcce686a1",
+      "username": "armanzet",
+      "email": "arman@a.com",
+      "password": "$2b$10$qL.pvd8cAAV8eVhp27RRHOFHG3A3ISAKdqBxQ2t827tVaOODjqIN6",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiMWQ4MjkxMmQtNjZhNy00ZGI2LWFlMzktZWNjZGNjZTY4NmExIiwiaWF0IjoxNjI5ODk0MDY2LCJleHAiOjE2Mjk4OTc2NjZ9.8Nbp-Mag8Hio_Jp--_vI0XXBRyAgRqSGx1M-QAltB2g"
+    },
+    {
+      "id": "e99d52ff-71a6-48a9-9a30-21918f662fcf",
+      "username": "armanzet",
+      "email": "arman@a.com",
+      "password": "$2b$10$oNg13jk.CTcrczaBXvR9luTI9IjVet4OeQX6zrilKkknl91n9kz16",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJlOTlkNTJmZi03MWE2LTQ4YTktOWEzMC0yMTkxOGY2NjJmY2YiLCJpYXQiOjE2Mjk4OTUzMDksImV4cCI6MTYyOTg5ODkwOX0.7fpEOeogHILvVUSvtz1438RIhd_eVMkL3SkchVdHfuQ"
+    }
+  ],
+  "photos": [
+    {
+      "id": "c3652199-82d6-4c4d-b652-3de6812893d7",
+      "path": "uploads/ccb8cbe4b0b5ca6e5723784e60bf347b",
+      "authorId": "4cb09795-d4de-46e0-a69e-923f291a0fdf"
+    },
+    {
+      "id": "0e100fc2-7223-4aeb-83e7-e44a4c359f98",
+      "path": "uploads/677af8fca24c2324ee8df0c63b8f6a8d",
+      "authorId": "4cb09795-d4de-46e0-a69e-923f291a0fdf"
+    },
+    {
+      "id": "9725a0e7-0a7f-4206-878e-f21ab4ca982d",
+      "path": "uploads/875f9efbe26ad38f7379d5da2755eb19",
+      "authorId": "dd870bda-a681-439f-975a-dd425575685a"
+    },
+    {
+      "id": "f63f994a-e27e-4048-965b-3561605b47c4",
+      "path": "uploads/cd7aa757662f34514e750762fb0b44d9",
+      "authorId": "1d82912d-66a7-4db6-ae39-eccdcce686a1"
+    }
+  ]
+}
